@@ -4,7 +4,7 @@
 PACKAGE="httpd wget unzip"
 SVC="httpd"
 UR
-TEMPDIR="/tmp/webfiles"
+
 
 # Installing Dependencies
 echo "########################################"

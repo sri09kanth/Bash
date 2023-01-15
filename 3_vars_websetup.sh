@@ -15,11 +15,6 @@ echo
 
 # Start & Enable Service
 echo "########################################"
-echo "Start & Enable HTTPD Service"
-echo "########################################"
-sudo systemctl start $SVC
-sudo systemctl enable $SVC
-echo
 
 echo "########################################"
 echo "Starting Artifact Deployment"

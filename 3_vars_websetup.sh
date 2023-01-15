@@ -19,9 +19,6 @@ echo "########################################"
 echo "########################################"
 echo "Starting Artifact Deployment"
 echo "########################################"
-mkdir -p $TEMPDIR
-cd $TEMPDIR
-echo
 
 wget $URL > /dev/null
 unzip $ART_NAME.zip > /dev/null

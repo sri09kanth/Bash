@@ -22,7 +22,6 @@ sudo systemctl start $SVC
 sudo systemctl enable $SVC
 echo
 
-# Creating Temp Directory
 echo "########################################"
 echo "Starting Artifact Deployment"
 echo "########################################"

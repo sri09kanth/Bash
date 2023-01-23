@@ -9,7 +9,7 @@ ROOTFREE=$(df -h | grep '/dev/sda1' | awk '{print $4}')
 
 
 echo "#######################################################"
-echo "Available free RAM is $FREERAM MB"
+
 
 
 

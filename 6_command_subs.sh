@@ -13,4 +13,4 @@ echo "Available free RAM is $FREERAM MB"
 echo "#######################################################"
 echo "Current Load Average $LOAD"
 echo "#######################################################"
-echo "Free ROOT partiotion size is $ROOTFREE"
+

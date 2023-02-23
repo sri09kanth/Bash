@@ -2,4 +2,4 @@
 
 echo -n 'Enter the First Number: '
 read 
-echo -n 'Enter the Second Number:
+echo -n 'Enter the Second Number

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 echo -n 'Enter the First Number: '
-read -r a
+read -r 
 echo -n 'Enter the Second Number:
 read 
 echo "$a + $b =

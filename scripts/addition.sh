@@ -3,5 +3,5 @@
 echo -n 'Enter the First Number: '
 read -r a
 echo -n 'Enter the Second Number: '
-read -r b
+read -r
 echo "$a + $b = $((a+

@@ -5,7 +5,7 @@
 # Taking  user input
 
 echo "Enter two numbers: "
-read a
+read 
 read b
 
 #input type of operatio

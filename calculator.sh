@@ -1,5 +1,5 @@
 #!/bin/bash
-#Simple
+#Simpl
 #This is a simple script to calculate two numbers.
 
 # Taking  user input

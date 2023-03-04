@@ -8,8 +8,7 @@ echo "Enter two numbers: "
 read a
 read b
 
-#input type of operation
-
+#input type of operatio
 echo "Enter your choice: "
 echo "1. Addition"
 echo "2. Substraction"

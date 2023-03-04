@@ -30,5 +30,3 @@ case $ch in
 esac
 #Printing result
 echo "Result: $re
-
-

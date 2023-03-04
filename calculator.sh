@@ -18,7 +18,7 @@ read ch
 
 #Acting on the user input
 
-case $ch in
+case $ch 
    1) res=`echo $a + $b | bc`
    ;;
    2) res=`echo $a - $b | bc`

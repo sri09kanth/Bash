@@ -23,7 +23,7 @@ case $ch
    ;;
    2) res=`echo $a - $b | bc`
    ;;
-   3) res=`echo $a \* $b | bc`
+   3) res=`echo $a \* $b | 
    ;;
    4) res=`echo "scale=2; $a / $b" | 
    ;;

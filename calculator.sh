@@ -29,4 +29,4 @@ case $ch
    ;;
 esac
 #Printing 
-echo "Result: $re
+echo "Result: 

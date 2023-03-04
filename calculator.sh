@@ -29,6 +29,6 @@ case $ch in
    ;;
 esac
 #Printing result
-echo "Result: $res
+echo "Result: $re
 
 

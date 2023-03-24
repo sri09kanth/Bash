@@ -10,7 +10,7 @@ while true; do
         3. Display Home Space Utilization
         0. Quit
 EOF
-    read -p "Enter selection [0-3] > "
+    read -p "Enter selection [0-3] > 
     case "$REPLY" in
         0)
             break

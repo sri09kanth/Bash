@@ -15,7 +15,7 @@ while true; do
             break
             ;;
         1)
-            echo "Hostname: $HOSTNAME"
+            echo "Hostname: $HOSTNAME
             uptime
             ;;
         2)

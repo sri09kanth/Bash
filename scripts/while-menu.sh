@@ -11,7 +11,7 @@ while true; do
         0. Quit
     read -p "Enter selection [0-3] >
     case "$REPLY" in
-        0)
+        0
             break
             ;;
         1)

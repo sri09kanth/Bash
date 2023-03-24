@@ -13,7 +13,7 @@ while true; do
     case "$REPLY" 
         0
             
-            ;;
+            
         1)
             echo "Hostname: $HOSTNAME
             uptime

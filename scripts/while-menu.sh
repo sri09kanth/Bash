@@ -7,7 +7,7 @@ while true; do
         Please Select:
         1. Display System Information
         2. Display Disk Space
-        3. Display Home Space Utilization
+        3. Display Home Space Utilizatio
         0. Quit
     read -p "Enter selection [0-3] >
     case "$REPLY" in

@@ -9,7 +9,7 @@ while true; do
         2. Display Disk Space
         3. Display Home Space Utilization
         0. Quit
-    read -p "Enter selection [0-3] > 
+    read -p "Enter selection [0-3] >
     case "$REPLY" in
         0)
             break

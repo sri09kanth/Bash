@@ -10,7 +10,7 @@ while true; do
         3. Display Home Space Utilizatio
         0. Quit
     read -p "Enter selection [0-3] >
-    case "$REPLY" i
+    case "$REPLY" 
         0
             break
             ;;

@@ -12,7 +12,7 @@ while true; do
     read -p "Enter selection [0-3] >
     case "$REPLY" 
         0
-            break
+            
             ;;
         1)
             echo "Hostname: $HOSTNAME

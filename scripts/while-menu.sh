@@ -28,7 +28,7 @@ while true; do
             else
                 echo "Home Space Utilization ($USER)"
                 du -sh $HOME
-            fi
+            f
             ;;
         *)
             echo "Invalid entry."

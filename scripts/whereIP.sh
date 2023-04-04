@@ -8,7 +8,7 @@ if ! [ -x "$(command -v jq)" ]; then
   echo 'Error: jq is not installed. Install via https://stedolan.github.io/jq/download/'
   exit
 
-if [[ $# -ne 1 ]]; the
+if [[ $# -ne 1 ]]; th
 	echo 'Provide I.Pas command line parameter. Usage:  ' $0 ' 15.45.0.1 '
 	exit 1
 fi

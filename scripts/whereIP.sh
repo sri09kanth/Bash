@@ -10,7 +10,7 @@ if ! [ -x "$(command -v jq)" ]; then
 
 if [[ $# -ne 1 ]]t
 	echo 'Provide I.Pas command line parameter. Usage:  ' $0 ' 15.45.0.1 '
-fi
+
 link=$(echo "http://ip-api.com/json/"$1)
 data=$(curl $link -s) # -s for slient output
 

@@ -6,7 +6,7 @@
 #
   echo 'Error: jq is not installed. Install via https://stedolan.github.io/jq/download/'
 if [[ $# -ne 1 ]]t
-	echo 'Provide I.Pas command line parameter. Usage:  ' $0 ' 15.45.0.1 
+	echo 'Provie I.Pas command line parameter. Usage:  ' $0 ' 15.45.0.1 
 link=$(echo "http://ip-api.com/json/"$1)
 data=$(curl $link -s) # -s for slient output
 
